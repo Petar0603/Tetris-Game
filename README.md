@@ -20,8 +20,8 @@ their rotation etc.
 ---
 ## Photos
 Whole circuit on a breadboard 
-<div align="center"><img src="/realization/full circuit.png"></div>
+<div align="center"><img src="/realization/full circuit.jpg"></div>
 OLED Before clearing a row
-<div align="center"><img src="/realization/no rows cleared.png"></div>
+<div align="center"><img src="/realization/no rows cleared.jpg"></div>
 OLED After clearing a row
-<div align="center"><img src="/realization/row cleared.png"></div>
+<div align="center"><img src="/realization/row cleared.jpg"></div>
