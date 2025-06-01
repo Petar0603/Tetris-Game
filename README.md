@@ -16,6 +16,7 @@ includes functions to write in the command register and
 data register of OLED, clear the screen, turn on sequence etc.
 - 'tetris_module' consists of the game logic, generating random shapes,
 their rotation etc.
+- 'run' is the code to be run on the ESP32 board.
 
 ---
 ## Photos
